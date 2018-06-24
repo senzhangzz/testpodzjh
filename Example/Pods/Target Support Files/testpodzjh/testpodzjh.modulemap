@@ -1,0 +1,6 @@
+framework module testpodzjh {
+  umbrella header "testpodzjh-umbrella.h"
+
+  export *
+  module * { export * }
+}
